@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "body": "Routine\n\n- Walk Dog\n- Feed Dog\n- Play videogames\n- Repeat\n- Go to sleep",
+      "updated": "2022-01-08T18:33:58.718Z"
+    },
+    {
+      "id": 2,
+      "body": "Work\n\n- Write CV\n- Update resume\n- Apply for jobs",
+      "updated": "2022-01-08T18:32:10.177Z"
+    },
+    {
+      "body": "Fun\n\nMake smth stupid",
+      "updated": "2022-01-08T18:50:22.333Z",
+      "id": 3
+    },
+    {
+      "body": "A Very-very-very-very-very-very-very-very-very-very long note",
+      "updated": "2022-01-08T18:51:01.125Z",
+      "id": 4
+    }
+  ]
+}
